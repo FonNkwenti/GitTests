@@ -17,6 +17,6 @@ resource "aws_instance" "my-first-server" {
   instance_type = "t3.micro"
 
   tags = {
-    Name = "HelloWorld2"
+    Name = "HelloWorld3"
   }
 }
