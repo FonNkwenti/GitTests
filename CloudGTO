@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T07:18:22.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RKoRLCEiQMenPMRlex4U" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T16:07:37.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aUiMdIg8Vw-tC_EPZSkk" version="21.5.2" type="github">
   <diagram name="Page-1" id="aMOo9vwC1OlsGj_eLut-">
-    <mxGraphModel dx="1909" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4435" dy="1928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -931,6 +931,9 @@
             <mxPoint x="-347" y="316.57" as="sourcePoint" />
             <mxPoint x="-483" y="316.57" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zvdauFaZ4P5JicJkfDnn-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
+          <mxGeometry x="684" y="482" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
